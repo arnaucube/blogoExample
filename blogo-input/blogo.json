@@ -1,0 +1,25 @@
+{
+  "title": "Blogo example",
+  "relativePath": "",
+  "indexTemplate": "index.html",
+  "postThumbTemplate": "postThumbTemplate.html",
+  "posts": [
+    {
+      "thumb": "postaboutcats_thumb.md",
+      "md": "postaboutcats.md"
+    },
+    {
+      "thumb": "the-empty-cube_thumb.md",
+      "md": "the-empty-cube.md"
+    },
+    {
+      "thumb": "firstpost_thumb.md",
+      "md": "firstpost.md"
+    }
+  ],
+  "copyRaw": [
+    "css",
+    "img",
+    "js"
+  ]
+}
